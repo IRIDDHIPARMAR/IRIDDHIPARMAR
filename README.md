@@ -1,16 +1,95 @@
-### Hi there 👋
 
-<!--
-**IRIDDHIPARMAR/IRIDDHIPARMAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://komarev.com/ghpvc/?username=iriddhiparmar">
+  <img align="right" src="https://komarev.com/ghpvc/?username=iriddhiparmar&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<!-- Intro  -->
+<h2 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a >Riddhi Parmar</a></b>
+        </samp>
+</h2>
+
+<!-- About Section -->
+ 
+<p>
+  
+ 📊 Hey there! I'm a data wrangler 🕵️‍♂️ passionate about untangling complex puzzles, crafting sleek dashboards, and unraveling SQL queries! 🚀 
+ Feel free to connect with me on any social platform. If you find my data dance intriguing, fork my repository, give it a star ⭐, 
+ and throw in a review if you fancy! Let's decode data together! 🤖💾 
+ #DataAnalyst #SQLWizard
+
+</p>
+<h3 align='center'><i>Social Media Handles</i></h3>
+<p align='center'>
+ 
+<table width="100" align='center'>
+<tr>
+    <td align='center' width="60">
+        <a href="https://medium.com/@riddhi2000par"><img src="https://miro.medium.com/v2/resize:fit:1400/1*psYl0y9DUzZWtHzFJLIvTw.png" width="60"></a>
+    </td>
+    <td align='center' width="60">
+        <a href="https://www.instagram.com/__.ridds.__/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png"></a>
+    </td>
+    <td align='center' width="60">
+        <a href="https://www.linkedin.com/in/riddhi-parmar-b737111a2/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60"></a>
+    </td>
+</tr>
+</table>
+
+</p>
+<br/>
+<br/>
+<br/>
+
+## Use To Code
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<br/>
+<p align="center">
+  <a href="https://github.com/iriddhiparmar">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=iriddhiparmar&theme=merko&border=7F3FBF&background=0D1117" alt="RP's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/iriddhiparmar">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iriddhiparmar&theme=radical&border=7F3FBF&border=7F3FBF" alt="Riddhi Parmar's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/iriddhiparmar"><img alt="Riddhi Parmar's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=iriddhiparmar&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/iriddhiparmar"><img alt="Riddhi Parmar's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=iriddhiparmar&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
+
+![Riddhi Parmar's Graph](https://github-readme-activity-graph.vercel.app/graph?username=iriddhiparmar&custom_title=Riddhi%20Parmar's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
